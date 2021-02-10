@@ -1,0 +1,38 @@
+Names of Particles in SARAH and FeynArts for Model-fileEWSB.mod
+ 
+Scalars: 
+ 
+hh: S[1] 
+Ah: S[2] 
+Hpm: S[{0, 0, 3, 303}] 
+Hppmm: S[{2337, 3447}] 
+
+ 
+Fermions: 
+ 
+Fd: F[4] 
+Fu: F[3] 
+Fe: F[2] 
+Fv: F[1] 
+
+ 
+Vector Bosons: 
+ 
+VG: V[5] 
+VP: V[1] 
+VZ: V[2] 
+VZR: V[10] 
+VWLm: V[3] 
+VWRm: V[93] 
+
+ 
+Ghosts: 
+ 
+gG: U[5] 
+gP: U[1] 
+gZ: U[2] 
+gZR: U[10] 
+gWLm: U[3] 
+gWLmC: U[4] 
+gWRm: U[93] 
+gWRmC: U[83] 
